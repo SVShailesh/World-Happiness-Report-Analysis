@@ -1,6 +1,6 @@
 # World Happiness Report
 
-![](https://cdn2.hubspot.net/hubfs/2388156/Imported_Blog_Media/The-World-Happiness-Report-4.jpg)
+![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*RWR4s5t5h_ve0D4fy5-Z9w.jpeg)
 
 Exploratory Data Analysis is a process of examining or understanding the data and extracting insights or main characteristics of the data. EDA is generally classified into two methods, i.e. graphical analysis and non-graphical analysis.
 EDA is very essential because it is a good practice to first understand the problem statement and the various relationships between the data features before getting your hands dirty.
