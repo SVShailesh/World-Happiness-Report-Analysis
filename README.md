@@ -74,11 +74,3 @@ We can create a heatmap using Seaborn to visualize the correlation between the d
      
 I hope we all now have a basic understanding of how to perform Exploratory Data Analysis(EDA).
 
-Hence, the above are the steps which I personally follow for Exploratory Data Analysis, but there are various other plots and commands, which we can use to explore more into the data.
-Thanks for Reading and Keep Learning.
-
-Contribution
-If you have any new ideas for new features or improvements feel free to note them down in pull requests
-
-Contact
-Feel free to contact me via email (nkr4nikhilraj@gmail.com) or follow me on LinkedIn (https://www.linkedin.com/in/nkr4nikhilraj)
